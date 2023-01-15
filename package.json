@@ -1,8 +1,8 @@
 {
   "name": "react-homework-template",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://kolya-kyb.github.io/goit-react-hw-01-components/",
+  "private": true,
+  "homepage": "http://kolya-kyb.github.io/goit-react-hw-01-components/",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
